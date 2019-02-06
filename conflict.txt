@@ -1,8 +1,7 @@
-Conflict 1
+Conflict 1 (Conflitando v1.0)
 
 Conflict 2 (Conflitando v2)
 
 Conflict 3 (Conflitando v3)
 
 Conflict 3 (Conflitando v2)
-
