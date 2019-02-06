@@ -1,4 +1,4 @@
-Conflict 1
+Conflict 1 (Conflitando v1.0)
 
 Conflict 2
 
